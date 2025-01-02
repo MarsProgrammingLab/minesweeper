@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Game {
     private final int ROWS = 9;
-    private final int COLS = 9;
+    private final int COLS = ROWS;
 
 
     public void start() {
